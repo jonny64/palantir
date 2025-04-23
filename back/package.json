@@ -1,0 +1,16 @@
+{
+  "name": "palantir",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "doix": "^1.0.51",
+    "doix-http": "^1.0.17",
+    "winston-daily-rotate-file": "^5.0.0"
+  }
+}
