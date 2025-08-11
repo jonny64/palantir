@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "doix": "^1.0.51",
-    "doix-http": "^1.0.17",
+    "doix": "1.0.51",
+    "doix-http": "1.0.17",
     "winston-daily-rotate-file": "^5.0.0"
   }
 }
